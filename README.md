@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ MALABAR - Ransomware Éducatif / Educational Ransomware</h1>
+<h1 align="center">🫧 MALABAR 🫧</h1>
 
 ---
 
@@ -18,14 +18,33 @@
 - 🧑‍💻 **Code source commenté** : Explications dans le code pour comprendre chaque étape.
 
 ### 🚀 Installation
-
-#### Prérequis
+- Ouvrez simplement le fichier setup.bat.
+- Pensez a modifier la déstenation dans client.py
+#### ⚙️ Prérequis
 
 - Python 3.x
 
-#### Instructions
+---
 
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/Malabar
-   cd Malabar
+## 🇬🇧 ENGLISH:
+
+> **⚠️ WARNING:** This project is **strictly for educational purposes**. Any malicious use of this code is illegal and unethical. The goal is to learn and raise awareness about cyber threats.
+
+### 📖 About
+
+**Malabar** is a Python ransomware project, designed to raise awareness and teach the principles of computer security. It is intended for security researchers, students, and hobbyists who want to understand how ransomware works **without ever using it maliciously**.
+
+### 📜 Features
+
+- 🔒 **File encryption**: Using encryption algorithms to lock files.
+- 🧩 **Decryption key**: Generation of a unique key for decryption.
+- 📑 **Ransom Message**: Displaying a personalized ransom message (for educational purposes).
+- 🧑‍💻 **Commented source code**: Explanations in the code to understand each step.
+
+### 🚀 Installation
+- Simply open the setup.bat file.
+- Remember to modify the detention in client.py
+#### ⚙️ Prerequisites
+
+- Python 3.x
+
