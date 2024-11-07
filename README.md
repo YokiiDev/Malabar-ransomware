@@ -1,6 +1,9 @@
 <h1 align="center">🫧 MALABAR 🫧</h1>
 
-[image](https://i.imgur.com/FRnzumX.png)
+
+<div align="center">
+  <img  src="https://i.imgur.com/FRnzumX.png">
+  <p align="center">
 ---
 
 ## 🇫🇷 FRANÇAIS :
