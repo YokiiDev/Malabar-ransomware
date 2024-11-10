@@ -3,9 +3,10 @@
 
 <div align="center">
   <img  src="https://i.imgur.com/FRnzumX.png">
+  ---
   <p align="center">
+  
 </div>
----
 
 ## 🇫🇷 FRANÇAIS :
 
